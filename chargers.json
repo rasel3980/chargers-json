@@ -1,0 +1,124 @@
+{
+  "chargers": [
+    {
+      "id": 1,
+      "brand": "Anker",
+      "model": "PowerPort Atom PD 1",
+      "price": 29.99,
+      "specs": {
+        "powerOutput": "30W",
+        "portType": "USB-C",
+        "compatibleDevices": ["phones", "tablets", "laptops"]
+      },
+      "img": "https://i.ibb.co.com/4KmPg46/Anker-Power-Port-Atom-PD-1-30-W-Ultra-Compact-Type-C-Wall-Charger.webp"
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "model": "20W USB-C Power Adapter",
+      "price": 19.99,
+      "specs": {
+        "powerOutput": "20W",
+        "portType": "USB-C",
+        "compatibleDevices": ["iPhones", "iPads"]
+      },
+      "img": "https://i.ibb.co.com/xF66zhD/20-W-USB-C-Power-Adapter.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Samsung",
+      "model": "Super Fast Charging Wall Charger",
+      "price": 29.99,
+      "specs": {
+        "powerOutput": "25W",
+        "portType": "USB-C",
+        "compatibleDevices": ["Samsung phones", "tablets"]
+      },
+      "img": "https://i.ibb.co.com/jgL2Tzc/Super-Fast-Charging-Wall-Chargerwebp.webp"
+    },
+    {
+      "id": 4,
+      "brand": "Belkin",
+      "model": "BoostCharge Pro",
+      "price": 49.99,
+      "specs": {
+        "powerOutput": "60W",
+        "portType": "USB-C",
+        "compatibleDevices": ["laptops", "phones", "tablets"]
+      },
+      "img": "https://i.ibb.co.com/fS5SjDX/Boost-Charge-Pro.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "RAVPower",
+      "model": "PD Pioneer 65W",
+      "price": 39.99,
+      "specs": {
+        "powerOutput": "65W",
+        "portType": "USB-C",
+        "compatibleDevices": ["laptops", "phones", "tablets"]
+      },
+      "img": "https://i.ibb.co.com/S7NJpVm/PD-Pioneer-65-W.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Google",
+      "model": "Pixel Stand 2",
+      "price": 79.99,
+      "specs": {
+        "powerOutput": "23W",
+        "portType": "Wireless",
+        "compatibleDevices": ["Google Pixel phones"]
+      },
+      "img": "https://i.ibb.co.com/qxpqHC9/Pixel-Stand-2.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Mophie",
+      "model": "Snap+ Wireless Charger",
+      "price": 34.95,
+      "specs": {
+        "powerOutput": "15W",
+        "portType": "Wireless",
+        "compatibleDevices": ["phones with wireless charging"]
+      },
+      "img": "https://i.ibb.co.com/0jTXrfR/Snap-Wireless-Charger.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "AmazonBasics",
+      "model": "Dual-Port USB Wall Charger",
+      "price": 14.99,
+      "specs": {
+        "powerOutput": "24W",
+        "portType": "USB-A",
+        "compatibleDevices": ["phones", "tablets"]
+      },
+      "img": "https://i.ibb.co.com/HVZft4W/Dual-Port-USB-Wall-Charger.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Ugreen",
+      "model": "USB-C Charger 100W",
+      "price": 49.99,
+      "specs": {
+        "powerOutput": "100W",
+        "portType": "USB-C",
+        "compatibleDevices": ["laptops", "phones", "tablets"]
+      },
+      "img": "https://i.ibb.co.com/4JSHQJC/USB-C-Charger-100-W.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Spigen",
+      "model": "ArcStation Pro 45W",
+      "price": 34.99,
+      "specs": {
+        "powerOutput": "45W",
+        "portType": "USB-C",
+        "compatibleDevices": ["phones", "tablets", "laptops"]
+      },
+      "img": "https://i.ibb.co.com/BgLBgbx/Arc-Station-Pro-45-W.jpg"
+    }
+  ]
+}
