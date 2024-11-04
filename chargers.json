@@ -1,124 +1,154 @@
 {
   "chargers": [
     {
-      "id": 1,
-      "brand": "Anker",
-      "model": "PowerPort Atom PD 1",
+      "product_id": 1,
+      "product_title": "Anker PowerPort Atom PD 1",
+      "product_image": "https://i.ibb.co/4KmPg46/Anker-Power-Port-Atom-PD-1-30-W-Ultra-Compact-Type-C-Wall-Charger.webp",
+      "category": "Chargers",
       "price": 29.99,
-      "specs": {
+      "description": "Compact 30W USB-C charger suitable for phones, tablets, and laptops.",
+      "Specification": {
         "powerOutput": "30W",
         "portType": "USB-C",
         "compatibleDevices": ["phones", "tablets", "laptops"]
       },
-      "img": "https://i.ibb.co.com/4KmPg46/Anker-Power-Port-Atom-PD-1-30-W-Ultra-Compact-Type-C-Wall-Charger.webp"
+      "availability": true,
+      "rating": 4.7
     },
     {
-      "id": 2,
-      "brand": "Apple",
-      "model": "20W USB-C Power Adapter",
+      "product_id": 2,
+      "product_title": "Apple 20W USB-C Power Adapter",
+      "product_image": "https://i.ibb.co/xF66zhD/20-W-USB-C-Power-Adapter.jpg",
+      "category": "Chargers",
       "price": 19.99,
-      "specs": {
+      "description": "Official Apple USB-C power adapter for fast charging iPhones and iPads.",
+      "Specification": {
         "powerOutput": "20W",
         "portType": "USB-C",
         "compatibleDevices": ["iPhones", "iPads"]
       },
-      "img": "https://i.ibb.co.com/xF66zhD/20-W-USB-C-Power-Adapter.jpg"
+      "availability": true,
+      "rating": 4.8
     },
     {
-      "id": 3,
-      "brand": "Samsung",
-      "model": "Super Fast Charging Wall Charger",
+      "product_id": 3,
+      "product_title": "Samsung Super Fast Charging Wall Charger",
+      "product_image": "https://i.ibb.co/jgL2Tzc/Super-Fast-Charging-Wall-Chargerwebp.webp",
+      "category": "Chargers",
       "price": 29.99,
-      "specs": {
+      "description": "25W USB-C charger with super fast charging for Samsung devices.",
+      "Specification": {
         "powerOutput": "25W",
         "portType": "USB-C",
         "compatibleDevices": ["Samsung phones", "tablets"]
       },
-      "img": "https://i.ibb.co.com/jgL2Tzc/Super-Fast-Charging-Wall-Chargerwebp.webp"
+      "availability": true,
+      "rating": 4.6
     },
     {
-      "id": 4,
-      "brand": "Belkin",
-      "model": "BoostCharge Pro",
+      "product_id": 4,
+      "product_title": "Belkin BoostCharge Pro",
+      "product_image": "https://i.ibb.co/fS5SjDX/Boost-Charge-Pro.jpg",
+      "category": "Chargers",
       "price": 49.99,
-      "specs": {
+      "description": "High-power 60W USB-C charger ideal for laptops, tablets, and phones.",
+      "Specification": {
         "powerOutput": "60W",
         "portType": "USB-C",
         "compatibleDevices": ["laptops", "phones", "tablets"]
       },
-      "img": "https://i.ibb.co.com/fS5SjDX/Boost-Charge-Pro.jpg"
+      "availability": false,
+      "rating": 4.5
     },
     {
-      "id": 5,
-      "brand": "RAVPower",
-      "model": "PD Pioneer 65W",
+      "product_id": 5,
+      "product_title": "RAVPower PD Pioneer 65W",
+      "product_image": "https://i.ibb.co/S7NJpVm/PD-Pioneer-65-W.jpg",
+      "category": "Chargers",
       "price": 39.99,
-      "specs": {
+      "description": "65W power delivery charger for fast charging multiple devices.",
+      "Specification": {
         "powerOutput": "65W",
         "portType": "USB-C",
         "compatibleDevices": ["laptops", "phones", "tablets"]
       },
-      "img": "https://i.ibb.co.com/S7NJpVm/PD-Pioneer-65-W.jpg"
+      "availability": true,
+      "rating": 4.9
     },
     {
-      "id": 6,
-      "brand": "Google",
-      "model": "Pixel Stand 2",
+      "product_id": 6,
+      "product_title": "Google Pixel Stand 2",
+      "product_image": "https://i.ibb.co/qxpqHC9/Pixel-Stand-2.jpg",
+      "category": "Chargers",
       "price": 79.99,
-      "specs": {
+      "description": "Wireless charger designed for Google Pixel devices with fast charging.",
+      "Specification": {
         "powerOutput": "23W",
         "portType": "Wireless",
         "compatibleDevices": ["Google Pixel phones"]
       },
-      "img": "https://i.ibb.co.com/qxpqHC9/Pixel-Stand-2.jpg"
+      "availability": true,
+      "rating": 4.4
     },
     {
-      "id": 7,
-      "brand": "Mophie",
-      "model": "Snap+ Wireless Charger",
+      "product_id": 7,
+      "product_title": "Mophie Snap+ Wireless Charger",
+      "product_image": "https://i.ibb.co/0jTXrfR/Snap-Wireless-Charger.jpg",
+      "category": "Chargers",
       "price": 34.95,
-      "specs": {
+      "description": "15W wireless charger compatible with all Qi-enabled devices.",
+      "Specification": {
         "powerOutput": "15W",
         "portType": "Wireless",
         "compatibleDevices": ["phones with wireless charging"]
       },
-      "img": "https://i.ibb.co.com/0jTXrfR/Snap-Wireless-Charger.jpg"
+      "availability": true,
+      "rating": 4.3
     },
     {
-      "id": 8,
-      "brand": "AmazonBasics",
-      "model": "Dual-Port USB Wall Charger",
+      "product_id": 8,
+      "product_title": "AmazonBasics Dual-Port USB Wall Charger",
+      "product_image": "https://i.ibb.co/HVZft4W/Dual-Port-USB-Wall-Charger.jpg",
+      "category": "Chargers",
       "price": 14.99,
-      "specs": {
+      "description": "Affordable dual USB-A wall charger for simultaneous charging.",
+      "Specification": {
         "powerOutput": "24W",
         "portType": "USB-A",
         "compatibleDevices": ["phones", "tablets"]
       },
-      "img": "https://i.ibb.co.com/HVZft4W/Dual-Port-USB-Wall-Charger.jpg"
+      "availability": true,
+      "rating": 4.1
     },
     {
-      "id": 9,
-      "brand": "Ugreen",
-      "model": "USB-C Charger 100W",
+      "product_id": 9,
+      "product_title": "Ugreen USB-C Charger 100W",
+      "product_image": "https://i.ibb.co/4JSHQJC/USB-C-Charger-100-W.jpg",
+      "category": "Chargers",
       "price": 49.99,
-      "specs": {
+      "description": "100W USB-C charger for fast charging of laptops, tablets, and phones.",
+      "Specification": {
         "powerOutput": "100W",
         "portType": "USB-C",
         "compatibleDevices": ["laptops", "phones", "tablets"]
       },
-      "img": "https://i.ibb.co.com/4JSHQJC/USB-C-Charger-100-W.jpg"
+      "availability": false,
+      "rating": 4.7
     },
     {
-      "id": 10,
-      "brand": "Spigen",
-      "model": "ArcStation Pro 45W",
+      "product_id": 10,
+      "product_title": "Spigen ArcStation Pro 45W",
+      "product_image": "https://i.ibb.co/BgLBgbx/Arc-Station-Pro-45-W.jpg",
+      "category": "Chargers",
       "price": 34.99,
-      "specs": {
+      "description": "Compact 45W charger with GaN technology for high efficiency.",
+      "Specification": {
         "powerOutput": "45W",
         "portType": "USB-C",
         "compatibleDevices": ["phones", "tablets", "laptops"]
       },
-      "img": "https://i.ibb.co.com/BgLBgbx/Arc-Station-Pro-45-W.jpg"
+      "availability": true,
+      "rating": 4.6
     }
   ]
 }
